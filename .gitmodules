@@ -1,0 +1,3 @@
+[submodule "shared/libs/directus"]
+	path = shared/libs/directus
+	url = https://github.com/100100101/directus.git
